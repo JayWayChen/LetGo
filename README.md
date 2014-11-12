@@ -11,7 +11,7 @@ app：1 ——卖时间。
 ps: 发布信息不需注册，纯匿名形式。
 
 客户端：android+baidu地图 api （java）
-后台 ： node.js
+后台 ： node.js（restfull服务api）+python
 数据库： mongoDb
 
 功能要尽量简单，不求多。好用上手傻瓜。
